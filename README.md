@@ -188,15 +188,6 @@
   />
 </p>
 
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
 
 ## 🔥 Contribution Streak
 
