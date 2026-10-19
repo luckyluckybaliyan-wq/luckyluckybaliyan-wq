@@ -79,32 +79,94 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-## 📌 Featured Projects
+<h2>🧠 Currently Exploring</h2>
 
-<!-- Replace these links and descriptions with your real projects. -->
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-9B51E0?style=flat-square"/>
+  <img src="https://img.shields.io/badge/System%20Design-Advanced%20Architecture-EC4899?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Advanced%20Backend-Scalable%20Patterns-06B6D4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI%20Applications-LLM%20Integration-F43F5E?style=flat-square"/>
+</p>
 
-<table>
+<hr/>
+
+<h2>🔄 Development Workflow</h2>
+
+<table align="center">
   <tr>
-    <td width="50%">
-      <h3 align="center">🛒 skillforge</h3>
-      <p align=" website project </p>
-      <p align="center">
-        <a href="https://github.com/luckyluckybaliyan-wq/skillforge.git>
-          <img src="https://img.shields.io/badge/View%20Project-6A0DAD?style=for-the-badge&logo=github&logoColor=white" alt="skillforge project"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">💼 HireHub</h3>
-      <p align="center">A project focused on job discovery and recruitment.</p>
-      <p align="center">
-        <a href="https://github.com/luckyluckybaliyan-wq/hirehub.git">
-          <img src="https://img.shields.io/badge/View%20Project-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="HireHub project"/>
-        </a>
-      </p>
-    </td>
+    <td align="center"><b>💡 Idea</b></td>
+    <td align="center"><b>📐 Architecture</b></td>
+    <td align="center"><b>⚙️ Backend</b></td>
+    <td align="center"><b>🔌 REST API</b></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🚀 Ship</b></td>
+    <td align="center"><b>🌍 Deployment</b></td>
+    <td align="center"><b>🎨 Frontend</b></td>
+    <td align="center"><b>🗄️ Database</b></td>
   </tr>
 </table>
+
+<p align="center">
+  <b>From concept to production—every step matters.</b>
+</p>
+
+<hr/>
+
+<h2>📌 Featured Projects</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Technologies</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>E-Commerce Platform</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/DRF-CB3837?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      </td>
+      <td>Full-stack ecommerce application with REST API backend, product management, category organization, and frontend/backend integration.</td>
+    </tr>
+    <tr>
+      <td><b>CareerMind AI</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI-9B51E0?style=flat-square"/>
+        <img src="https://img.shields.io/badge/APIs-EC4899?style=flat-square"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      </td>
+      <td>AI-focused career and developer learning platform combining intelligent recommendations with a modern web interface.</td>
+    </tr>
+    <tr>
+      <td><b>FarmVaani</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/APIs-EC4899?style=flat-square"/>
+      </td>
+      <td>AgriTech platform connecting farmers with real-time information and tools.</td>
+    </tr>
+    <tr>
+      <td><b>FixMyArea</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI-9B51E0?style=flat-square"/>
+      </td>
+      <td>Civic-tech initiative leveraging geolocation and AI for community problem-solving.</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 ## 📊 GitHub Statistics
 
