@@ -5,8 +5,7 @@
 
 <!-- ========== HEADER ========== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=lucky baliyan &fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSIT%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=58&descSize=16" width="100%" alt="Profile banner" />
-
+  
   <h1>Hi 👋, I'm LUCKY BALIYAN</h1>
   <h3>Aspiring Software Developer | Problem Solver | Lifelong Learner</h3>
 
