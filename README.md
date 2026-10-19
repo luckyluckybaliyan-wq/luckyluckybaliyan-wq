@@ -112,6 +112,40 @@
 
 <hr/>
 
+## 🏆 My Best Project
+
+### 📸 FaceAttend — Face Recognition Attendance System
+
+🔗 **Repository:** [View FaceAttend](https://github.com/luckyluckybaliyan-wq/faceattend.git)
+
+A smart attendance management system using facial recognition technology.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-FaceAttend-blueviolet?style=for-the-badge" alt="FaceAttend"/>
+  <img src="https://img.shields.io/badge/AI-Face%20Recognition-blue?style=for-the-badge" alt="Face Recognition"/>
+  <img src="https://img.shields.io/badge/Status-Development-orange?style=for-the-badge" alt="Project Status"/>
+</p>
+
+<p align="center">
+  <b>Smart Attendance. Faster Tracking. Better Management.</b>
+</p>
+
+## 👨‍💻 Author
+
+**Lucky Baliyan**
+
+- GitHub: [Visit My Profile](https://github.com/luckyluckybaliyan-wq)
+
+---
+## ✨ Key Features
+
+- 👤 Face recognition-based attendance
+- ⚡ Automated attendance tracking
+- 📊 Attendance record management
+- ⏱️ Reduced manual effort
+- 🎯 Simple and user-friendly interface
+- 🔐 Efficient attendance management
+
 <h2>📌 Featured Projects</h2>
 
 <table>
