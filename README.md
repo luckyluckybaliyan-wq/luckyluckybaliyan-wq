@@ -132,7 +132,7 @@ A smart attendance management system using facial recognition technology.
 
 ## 👨‍💻 Author
 
-**Lucky Baliyan**
+** sir Lucky Baliyan**
 
 - GitHub: [Visit My Profile](https://github.com/luckyluckybaliyan-wq)
 
