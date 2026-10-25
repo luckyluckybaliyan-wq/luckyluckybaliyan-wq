@@ -1,24 +1,23 @@
-<p align="center">
-  <img src="./banner.png.png" alt="Lucky Baliyan Banner" width="100%">
-</p>
-
-<!-- ========== HEADER ========== -->
 <div align="center">
-  
-  <h1>Hi 👋, I'm LUCKY BALIYAN</h1>
-  <h3>Aspiring Software Developer | Problem Solver | Lifelong Learner</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=a855f7&height=200&section=header&text=lucky%20Baliyan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlign=center" width="100%"/>
+</div>
 
-  <p>
-    <a href="https://github.com/luckyluckybaliyan-wq">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://www.linkedin.com/in/lucky-baliyan-491a44359?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://leetcode.com/lucky1234512">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-    </a>
-  </p>
+<div align="center">
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00d4ff&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+Python+%7C+Django;Django+REST+Framework+%7C+FastAPI;PostgreSQL+%7C+Redis+%7C+REST+APIs;React.js+%7C+Tailwind+CSS;Render+%7C+Vercel+%7C+API+Integration;Exploring+RAG+%26+Advanced+Backend" alt="Typing SVG" />
+  </h3>
+</div>
+
+<div align="center">
+  <a href="https://github.com/luckyluckybaliyan-wq">
+    <img src="https://img.shields.io/badge/GitHub-luckyluckybaliyan-wq-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://LUCKY BALIYAN.me">
+    <img src="https://img.shields.io/badge/Portfolio-LUCKY BALIYAN.me-a855f7?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://github.com/luckyluckybaliyan-wq?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-View%20All-ec4899?style=for-the-badge&logo=rocket&logoColor=white" alt="Projects Badge"/>
+  </a>
 </div>
 
 ---
