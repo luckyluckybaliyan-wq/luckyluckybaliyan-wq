@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=a855f7&height=200&section=header&text=Lucky%20Baliyan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlign=center" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=a855f7&height=200&section=header&text=LUCKY%20BALIYAN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlign=center" width="100%"/>
 </div>
 
 <div align="center">
@@ -10,10 +10,10 @@
 
 <div align="center">
   <a href="https://github.com/luckyluckybaliyan-wq">
-    <img src="https://img.shields.io/badge/GitHub-luckyluckybaliyan-wq?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-luckyluckybaliyan-wq-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://LUCKY BALIYAN.me">
-    <img src="https://img.shields.io/badge/Portfolio-LUCKY BALIYAN.me-a855f7?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio Badge"/>
+  <a href="https://LUCKYBALIYAN.me">
+    <img src="https://img.shields.io/badge/Portfolio-luckybaliyan.me-a855f7?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="https://github.com/luckyluckybaliyan-wq?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-View%20All-ec4899?style=for-the-badge&logo=rocket&logoColor=white" alt="Projects Badge"/>
@@ -21,7 +21,6 @@
 </div>
 
 ---
-
 ## 🚀 About Me
 
 - 🎓 B.Tech student in Computer Science and Information Technology (CSIT).
