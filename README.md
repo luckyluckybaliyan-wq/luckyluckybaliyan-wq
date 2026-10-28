@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/luckyluckybaliyan-wq">
-    <img src="https://img.shields.io/badge/GitHub-luckyluckybaliyan-wq-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-luckyluckybaliyan-wq?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="https://LUCKY BALIYAN.me">
     <img src="https://img.shields.io/badge/Portfolio-LUCKY BALIYAN.me-a855f7?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio Badge"/>
