@@ -12,7 +12,7 @@
   <a href="https://github.com/luckyluckybaliyan-wq">
     <img src="https://img.shields.io/badge/GitHub-luckyluckybaliyan-wq-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://luckyluckybaliyan-wq.me">
+  <a href="https://luckybaliyan.me">
     <img src="https://img.shields.io/badge/Portfolio-luckybaliyan.me-a855f7?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="https://github.com/luckyluckybaliyan-wq?tab=repositories">
